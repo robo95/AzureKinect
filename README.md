@@ -2,9 +2,9 @@
 
 Preparation history for VOT RGBD-2021 CHALLENGE.
 
-##VOT Toolkit python version
+## VOT Toolkit python version
 -------------------------------------
-VOT Toolkit installation
+### VOT Toolkit installation
 
 ###Prerequisites
 
@@ -20,7 +20,7 @@ pip install git+https://github.com/votchallenge/vot-toolkit-python
 
 
 
-###Setting up the VOT workspace
+### Setting up the VOT workspace
 
 vot initialize <stack-name> --workspace <work-space-path>
   
