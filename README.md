@@ -1,17 +1,16 @@
-### Azure Kinect
+# Azure Kinect
 
 Preparation history for VOT RGBD-2021 CHALLENGE.
 
-VOT Toolkit python version
+##VOT Toolkit python version
 -------------------------------------
 VOT Toolkit installation
 
- Prerequisites
+###Prerequisites
 
- anaconda env, python==3.6
+anaconda env, python==3.6
  
- Visual Studio Build Tools 2019: vs_buildtools__942411123.1615829930
- 
+Visual Studio Build Tools 2019: vs_buildtools__942411123.1615829930 
 
 <pre>
 <code>
@@ -21,14 +20,14 @@ pip install git+https://github.com/votchallenge/vot-toolkit-python
 
 
 
-Setting up the VOT workspace
->
-> vot initialize <stack-name> --workspace <work-space-path>
->  
-> ex)
-> <pre>
-> <code>
-> vot initialize votrgbd2020 --workspace votrgbd2020
-> </code>
-> </pre>
->
+###Setting up the VOT workspace
+
+vot initialize <stack-name> --workspace <work-space-path>
+  
+ex)
+<pre>
+<code>
+vot initialize votrgbd2020 --workspace votrgbd2020
+</code>
+</pre>
+
