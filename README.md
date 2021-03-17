@@ -21,12 +21,12 @@ VOT Toolkit installation
 
 ### Setting up the VOT workspace
 
-vot initialize <stack-name> --workspace <work-space-path>
-  
-ex)
-<pre>
-<code>
-vot initialize votrgbd2020 --workspace votrgbd2020
-</code>
-</pre>
+> vot initialize <stack-name> --workspace <work-space-path>
+>   
+> ex)
+> <pre>
+> <code>
+> vot initialize votrgbd2020 --workspace votrgbd2020
+> </code>
+> </pre>
 
