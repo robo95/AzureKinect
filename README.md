@@ -15,3 +15,6 @@ pip install pyk4a --no-use-pep517 --global-option=build_ext --global-option="-IC
 <code>
 <pre>
 
+Add environment path variable
+C:/Program Files/Azure Kinect SDKv1.4.1/sdk/windows-desktop/amd64/release/bin
+
