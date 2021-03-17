@@ -15,5 +15,5 @@ pip install pyk4a --no-use-pep517 --global-option=build_ext --global-option="-IC
 </code>
 </pre>
 
-"Add environment path variable"
+**Add environment path variable**
 
