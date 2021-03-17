@@ -3,7 +3,7 @@
 Preparation history for VOT RGBD-2021 CHALLENGE.
 
 ## VOT Toolkit python version
-### VOT Toolkit installation
+VOT Toolkit installation
 
 ### Prerequisites
 
