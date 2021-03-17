@@ -5,17 +5,17 @@ Preparation history for VOT RGBD-2021 CHALLENGE.
 ## VOT Toolkit python version
 VOT Toolkit installation
 
-### Prerequisites
-
-anaconda env, python==3.6
- 
-Visual Studio Build Tools 2019: vs_buildtools__942411123.1615829930 
-
-<pre>
-<code>
-pip install git+https://github.com/votchallenge/vot-toolkit-python
-</code>
-</pre>
+>### Prerequisites
+>
+> anaconda env, python==3.6
+> 
+> Visual Studio Build Tools 2019: vs_buildtools__942411123.1615829930 
+> 
+> <pre>
+> <code>
+> pip install git+https://github.com/votchallenge/vot-toolkit-python
+> </code>
+> </pre>
 
 
 
